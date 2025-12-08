@@ -15,7 +15,7 @@ redirect_from:
 
 I received my Ph.D. in Chemistry (theoretical and computational chemistry) in 2019 from the Institute of Chemistry, Chinese Academy of Sciences / University of the Chinese Academy of Sciences, advisor: Prof. [Hui Chen](https://www.webofscience.com/wos/author/record/B-5666-2012). From September 2017 to March 2019, I was a joint-training doctoral student at the Hebrew University of Jerusalem under Prof. [Sason Shaik](https://scholar.google.com/citations?hl=zh-CN&user=00k1P-YAAAAJ&view_op=list_works&sortby=pubdate), a prominent theoretical chemist. I earned my B.Sc. in Chemistry Education in 2014 from Shandong University of Technology. After completing my doctorate, I conducted postdoctoral research at Peking University with Prof. [Yundong Wu](https://www.chem.pku.edu.cn/en/People/AcademicStaff/c5bc1350b7ab4f3cb8a5f9e4d20b07f4.htm), focusing on computational physical organic chemistry and organometallic reaction mechanisms.
 
-Please visit the [Research](https://iloveiron.github.io/teaching/) & [Publications](https://iloveiron.github.io/publications/) page to learn more about my work and papers. I am currently seeking tenure-track faculty positions in chemistry; a graphic outlining the future research directions of Wang Lab appears below. I look forward to discussing potential collaborations.
+Please visit the [Research](https://iloveiron.github.io/teaching/) & [Publications](https://iloveiron.github.io/publications/) page to learn more about my work and papers. I am preparing for an independent academic career and plan to establish a research program that integrates theoretical method development, multiscale modeling, and spectroscopy-oriented simulations to address fundamental problems in bioinorganic and transition-metal catalysis. My long-term goal is to build a mechanism-driven, prediction-centered computational laboratory that closely interacts with experiment and provides quantitative insight into reactivity, selectivity, and electronic-structure control. A schematic overview of my planned future research directions is shown below.
 
 Research Vision
 ======
@@ -41,7 +41,3 @@ Awards & Honors
 1. &nbsp;Director Award of Institute of Chemistry Chinese Academy of Sciences, <i>2018</i>
 1. &nbsp;National Scholarship for Doctoral Students, <i>2018</i>
 1. &nbsp;Judge’s Award at 16th Annual Postdoctoral Research Symposium Poster Session, <i>2023</i>
-
-Career Objective
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
