@@ -1,11 +1,11 @@
 ---
-title: "💻 Diverging Reaction Pathways and Key Intermediates in Ethylene Forming Enzyme"
+title: "💻🧪 Experimental Evidence for Radical-Polar Crossover in Competition with, Rather Than Preceding, Alkene Formation by Microbial Ethylene-Forming Enzyme"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-04-24-paper-title-number-12
-date: 2025-04-24
-venue: 'The Journal of Physical Chemistry B'
-paperurl: 'https://pubs.acs.org/doi/full/10.1021/acs.jpcb.5c02007'
-citation: '<b>Chao Wang</b>, and Elvira R. Sayfutyarova*. <i>J. Phys. Chem. B</i> <b>2025</b>, 129(18), 4335-4349'
+permalink: /publication/2025-11-18-paper-title-number-13
+date: 2025-11-18
+venue: 'Journal of American Chemistry Society'
+paperurl: 'https://pubs.acs.org/doi/abs/10.1021/jacs.5c13787'
+citation: 'Evan J. Burke, <b>Chao Wang</b>, Holly Lussier, Elvira R. Sayfutyarova, Alexey Silakov, Carsten Krebs*, J. Martin Bollinger Jr.*, and Jeffrey W. Slater*. <i>J. Am. Chem. Soc</i> <b>2025</b>, 147(48), 44191-44199'
 ---
-Ethylene-forming enzyme (EFE) is a non-heme iron(II)- and 2-oxoglutarate-(Fe(II)/2OG)-dependent oxygenase with distinct catalytic 
+Ethylene-forming enzyme (EFE) catalyzes a reaction that sets it apart from other iron(II)- and 2-oxoglutarate-dependent (Fe/2OG) oxygenases. In this reaction, all four oxidizing equivalents of O2 are unleashed upon 2OG, fragmenting it to ethylene (from C3 and C4) and three fully oxidized C1 equivalents (from C1, C2, and C5), while the would-be “prime substrate”, l-arginine, escapes unmodified. We previously proposed that ethylene formation proceeds by a radical-polar-crossover mechanism involving three unusual steps: (1) formal insertion of O2 between C1 and C2 of 2OG, forming a succinylperoxycarbonatoiron(II) complex and appending an additional oxygen to C1; (2) radical C–O coupling between a C3–C5-derived propionate-3-yl radical and a C1-derived Fe(III)-coordinated carbonate; and (3) polar fragmentation of the resultant (2-carboxyethyl)carbonatoiron(II) complex to ethylene, CO2, and carbonate. Here, we used isotopic labeling to distinguish the three C1 products and stopped-flow infrared (FTIR) spectroscopy to track their formation. The results confirm the prediction that C1 is not directly converted to CO2, implying that it must indeed become (bi)carbonate. Comparable kinetic data on the A198L variant, which produces ethylene and the abortive product, 3-hydroxypropionate, in similar quantities, reveal that these two products do not, as we had originally proposed, form in competing reactions of a common (2-carboxyethyl)carbonatoiron(II) intermediate. Rather, as suggested by a pair of computational studies separately led by Sayfutyarova and Christov, ethylene is formed in competition with radical coupling by an olefin-forming fragmentation that reduces the Fe(III) cofactor. In other words, crossover to the polar manifold thwarts rather than enables ethylene formation. 
